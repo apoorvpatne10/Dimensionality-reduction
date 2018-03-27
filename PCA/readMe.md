@@ -4,6 +4,8 @@ From the m independent variables of a dataset PCA extracts p <= m new independen
 
 PCA transforms variables into a new set of variables which are a linear combination of original variables. These new variables are known as principal components. PCA is an orthogonal, linear transformation that transforms data into a new coordinate system such that the greatest variance by some projection of data lies on first principal component. The second greatest variance on the second component, and so on.
 
+The *Wine* dataset consists of a chemical composition of several wines clustered into 3 segments of customers. Each segment having a specific preference for a specific wine.
+
 **Confusion Matrix**
 
 14        0         0
