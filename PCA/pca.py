@@ -1,9 +1,5 @@
 # PCA
 
-# From the m independent variables of a dataset PCA extracts p<=m new independent variables
-# that explains the most the variance of the dataset, regardless of the dependent variable
-# The fact that dependent variable is not considered makes PCA a unsupervised model
-
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
