@@ -6,11 +6,11 @@ PCA transforms variables into a new set of variables which are a linear combinat
 
 **Confusion Matrix**
 
-14    0     0
+14        0         0
 
-1     15    0 
+1         15        0 
 
-0     0     6
+0         0         6
 
 **Accuracy** : 35/36 = 97.22% on Test Set
 
